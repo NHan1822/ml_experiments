@@ -1,0 +1,4 @@
+*.zip
+archive/
+runs/detect/preds
+*.pth
